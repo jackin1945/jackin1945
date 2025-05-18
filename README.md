@@ -2,7 +2,6 @@
 - 👀 I’m interested in Artificial intelligence and Machine learning
 - 🌱 I’m currently learning BSC in AI/ML
   
-- 📫 How to reach me on my number 919619631067
 
 <!---
 jackin1945/jackin1945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
