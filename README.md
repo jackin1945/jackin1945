@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackin1945
+- 👋 Hi, I’m @janicevaz
 - 👀 I’m interested in Artificial intelligence and Machine learning
 - 🌱 I’m currently learning BSC in AI/ML
   
